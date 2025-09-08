@@ -14,4 +14,4 @@ user_1 = User("Alex", "awdqw@yandex.ru")
 
 user_1.add_to_txt()
 
-print("dwqdq")
+print("dwqfe")
